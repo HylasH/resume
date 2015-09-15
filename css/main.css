@@ -1,0 +1,197 @@
+.wrapper
+{
+    width: 800px;
+    margin: 0 auto;
+    /*background: #ccc;*/
+    margin-top: 100px;
+/*    border: #ccc;
+    border-style: solid;*/
+}
+
+.basic-info
+{
+    display: block;
+}
+
+table
+{
+    margin-bottom: 50px;
+}
+
+table td
+{
+    height: 20px;
+    width: 120px;
+    border-color: #000;
+    border-width: 1px;
+}
+
+img
+{
+    display: block;
+    float: right;
+    width: 100px;
+    height: 140px;
+    margin: 0;
+}
+
+h1
+{
+    display: block;
+    width: 100px;
+    height: 50px;
+    float: left;
+    margin-top: 100px;
+}
+
+h2
+{
+    margin-bottom: 10px;
+    margin-left: 35px;
+    font-size: 22px;
+}
+
+.name
+{
+    font-weight:600;
+    font-size: 30px;
+    margin-top: 0;
+    margin-left: 0;
+
+}
+
+.content1
+{
+    width: 800px;
+    margin: 0 auto;
+}
+
+.edu-section
+{
+    width: 800px;
+    margin: 0 auto;
+    height: 70px;
+}
+
+.project-section
+{
+    width: 800px;
+    margin: 0 auto;
+    height: 550px;
+}
+
+.skill-section
+{
+    width: 800px;
+    margin: 0 auto;
+    height: 110px;
+}
+
+.evaluate-section
+{
+    width: 800px;
+    margin: 0 auto;
+    height: 110px;
+}
+
+.content1 .con
+{
+    padding-left: 30px;
+}
+
+.content .hr
+{
+    width: 85%;
+    display: block;
+    background: #ccc;
+    height: 2px;
+}
+
+.icon-search
+{
+    display: block;
+    float: left;
+    padding-left: 10px;
+}
+
+.icon-user
+{
+    display: block;
+    float: left;
+    padding-left: 10px;
+}
+
+.icon-wrench
+{
+    display: block;
+    float: left;
+    padding-left: 10px;
+}
+
+.icon-desktop
+{
+    display: block;
+    float: left;
+    padding-left: 10px;
+}
+
+.icon-hand-right
+{
+    display: block;
+    float: left;
+    padding-left: 10px;
+}
+
+.edu-section .expr-edu
+{
+    padding-left: 30px;
+    display: block;
+    float: left;
+    padding-top: 10px;
+
+}
+
+.project-section .pro1
+{
+    height: 170px;
+}
+
+.project-section .pro1 .pro-time
+{
+    display: block;
+    float: left;
+    position: relative;
+    top: 19px;
+    left: 30px;
+}
+
+.project-section .pro1 .mango
+{
+    width: 500px;
+    display: block;
+    float: left;
+    position: relative;
+    top: 0px;
+    left: 50px;
+}
+
+.skill-section p
+{
+    display: block;
+    float: left;
+    padding-left: 30px;
+}
+
+.evaluate-section p
+{
+    display: block;
+    float: left;
+    padding-left: 30px;
+}
+
+.icon-group
+{
+    display: block;
+    margin-top: 30px;
+}
+
